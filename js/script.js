@@ -13,13 +13,9 @@ function meme() {
     })
     .catch((erro)=> console.log(erro))
 }
+meme()
 
-function tamanhoPadrao() {
-    const img = document.querySelector("#meme")
-    img.classList.add('tamanhoPadrao')
-}
 
 btn.addEventListener("click", ()=> {
-    tamanhoPadrao()
     meme()
 })
