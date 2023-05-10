@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS 3
 - JavaScript
 - Git e Github
-- [API Meme-Api]([https://restcountries.com/](https://github.com/D3vd/Meme_Api))
+- [API Meme-Api](https://github.com/D3vd/Meme_Api)
 
 ## 💻 Projeto
 
