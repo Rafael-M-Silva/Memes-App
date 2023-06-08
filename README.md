@@ -1,7 +1,7 @@
 <h1 align="center"> Memes App </h1>
 
 <p align="center">
-Projeto 02 JavaScript - faculdade flamingo
+Projeto 07 pag 2 JavaScript - faculdade flamingo
 </p>
 
 <p align="center">
